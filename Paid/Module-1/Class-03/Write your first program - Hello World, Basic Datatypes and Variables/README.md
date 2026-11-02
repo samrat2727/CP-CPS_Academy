@@ -1,3 +1,4 @@
+```text
 C-Programming-Notes/
 ├── 01-Introduction-and-Variables/
 │   ├── README.md
@@ -5,3 +6,4 @@ C-Programming-Notes/
 │   ├── 02_data_types.c
 │   └── 03_precision_errors.c
 └── README.md
+```
